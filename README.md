@@ -24,6 +24,6 @@ File Storage: Local file system
 
 # How to Run the Project
 
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/uun-aja/-AES--256-CBC-To-Secure-KTP-Data-In-Online-Loan-Systems.git
 
-cd repository-name
+cd -AES--256-CBC-To-Secure-KTP-Data-In-Online-Loan-Systems.git
